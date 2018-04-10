@@ -1,0 +1,4 @@
+id: simple-gohttp
+version: 0.1.0
+name: Simple Go HTTP Template
+description: A simple HTTP Go library template

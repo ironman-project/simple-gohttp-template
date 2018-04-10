@@ -1,0 +1,3 @@
+id: app
+name: Default Application Generator
+description: Creates a simple main file which runs the go http server
