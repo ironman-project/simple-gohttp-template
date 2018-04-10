@@ -15,7 +15,7 @@ $ ironman install https://github.com/ironman-project/simple-gohttp-template.git
 ### App
 
  ```sh
- $ ironman generate simple-gohttp-template /path/to/app --set projectName="Some project name",projectDescription="Some project description"
+ $ ironman generate simple-gohttp /path/to/app --set projectName="Some project name",projectDescription="Some project description"
  ```
 
  #### Values
@@ -23,5 +23,4 @@ $ ironman install https://github.com/ironman-project/simple-gohttp-template.git
  * projectName: A project name
  * projectDescription: A description of the project
 
- 
-  
+
