@@ -22,5 +22,6 @@ $ ironman install https://github.com/ironman-project/simple-gohttp-template.git
 
  * projectName: A project name
  * projectDescription: A description of the project
+ * myName: Name to display in the root enpoint with the "Hello {{.myName}}" message.
 
 
