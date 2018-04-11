@@ -1,0 +1,6 @@
+id: endpoint
+type: file
+name: Endpoint Generator
+description: Generates a new endpoint
+fileTypeOptions:
+  defaultTemplateFile: endpoint.go

@@ -14,8 +14,18 @@ $ ironman install https://github.com/ironman-project/simple-gohttp-template.git
 
 ### App
 
+Default generator which generates the base app
+
  ```sh
  $ ironman generate simple-gohttp /path/to/app --set projectName="Some project name",projectDescription="Some project description"
+ ```
+
+ ### Endpoint
+
+ Generates a new simple endpoint file
+
+ ```sh
+ ironman generate simple-gohttp :endpoint /path/to/app/myendpoint.go --set endpoint="/myendpoint" 
  ```
 
  #### Values
